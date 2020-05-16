@@ -1,0 +1,21 @@
+.cart-item-wrapper{
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+.price-details-wrapper{
+  border: 1px solid blue
+}
+
+.cart-item-wrapper img{
+  width: 60%;
+  height: 80%;
+}
+
+.cart-item-wrapper .MuiButton-containedPrimary{
+  margin : 10px
+}
+
+

@@ -1,0 +1,38 @@
+ .shopping-item{
+    position: relative;
+    margin-top: 10px ;
+    padding: 5px;
+    float: left;
+    text-align: center;
+} 
+.shopping-List{
+    margin-top: 64px ;
+    padding: 5px;
+    float: left;
+    text-align: center;
+}
+
+ .shopping-item img{
+    height: 70%;
+    width: 100%;
+} 
+
+.dicount-tag{
+   color: green
+}
+
+.filter{
+    padding: 10px;
+    box-shadow: 0 0 5px 5px #90a3a3;
+    border-radius: 10px;
+    margin-top: 19px;
+}
+ 
+ 
+.filter-value-right{
+    float: right;
+}
+ 
+.filter-value-left{
+    float: left;
+}
